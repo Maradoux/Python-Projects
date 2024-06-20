@@ -1,2 +1,2 @@
-# Python-Projects
-Python/Data Science
+# Python/MySQL/Flask-Projects
+Application-Data Science
